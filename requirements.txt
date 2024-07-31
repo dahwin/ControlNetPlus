@@ -205,8 +205,6 @@ toolz==0.12.1
 torchmetrics
 traitlets==5.9.0
 trampoline==0.1.2
-transformers==4.39.1
-triton==2.0.0
 typer==0.12.3
 types-python-dateutil==2.9.0.20240316
 typing_extensions==4.10.0
@@ -223,7 +221,6 @@ websocket-client==1.7.0
 websockets==11.0.3
 Werkzeug==3.0.1
 widgetsnbextension==4.0.10
-xformers==0.0.22
 xxhash==3.4.1
 yarl==1.9.4
 zipp==3.18.1
