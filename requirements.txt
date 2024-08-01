@@ -10,12 +10,10 @@ importlib_resources
 omegaconf
 open-clip-torch
 openai-clip
-protobuf
 scikit-image
 scikit-learn
 scipy
 sentencepiece
-sentry-sdk==1.43.0
 sympy
 torchmetrics
 tzdata
