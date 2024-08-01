@@ -16,8 +16,6 @@ omegaconf==2.3.0
 open-clip-torch
 openai-clip
 protobuf
-pynvml==11.5.0
-pyparsing==3.1.2
 scikit-image
 scikit-learn
 scipy
@@ -25,8 +23,6 @@ semantic-version
 Send2Trash==1.8.3
 sentencepiece
 sentry-sdk==1.43.0
-setproctitle==1.3.3
-shellingham==1.5.4
 sympy
 tifffile==2023.7.10
 tinycss2==1.2.1
